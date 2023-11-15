@@ -25,6 +25,3 @@ CIRA CORE ถูกพัฒนาโดย "วิทยาลัยนวั�
 - https://web.facebook.com/groups/cira.core.comm/?_rdc=1&_rdr
 - https://sites.google.com/site/klsrobotcenter/kls-cira-core
 
-
-| สร้างไฟล์ README  | https://dillinger.io/ |
-### สามารถติดตามผลงานได้...https://github.com/tooe81948"# Cira_Core_DetectProduct" 
